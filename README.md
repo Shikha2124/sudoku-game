@@ -1,2 +1,2 @@
 # sudoku-game
-build a sudoku game using java
+sudoku game using java
